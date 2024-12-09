@@ -2,7 +2,7 @@
 
 Holi, soy Pi, estudiante en 42 Madrid.
 
-| Rank | Project | Grade |
+| Rank | Proyecto | Nota |
 | :---: | :--- | :---:|
 | 0 | [libft](https://github.com/dejapiunrato/libft) | 125/100 |
 | 1 | [ft_printf](https://github.com/dejapiunrato/ft_printf) | 100/100 |
