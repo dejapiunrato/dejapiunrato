@@ -10,5 +10,5 @@ Holi, soy Pi, estudiante en 42 Madrid.
 | 1 | Born2beeRoot | 100/100 |
 | 2 | [Exam Rank 2](https://github.com/dejapiunrato/rank2_exam) | 100/100 |
 | 2 | [push_swap](https://github.com/dejapiunrato/push_swap) | 94/100 |
-| 2 | [pipex](https://github.com/dejapiunrato/pipex) | en ello |
+| 2 | [pipex](https://github.com/dejapiunrato/pipex) | 100/100 |
 | 2 | [fract-ol](https://github.com/dejapiunrato/fract-ol) | en ello |
